@@ -73,3 +73,13 @@ The result will be one of the following:
 
 # SCREENSHOTS
 
+![1](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/c7de9d12-a4c9-4565-84dc-b88a55acb5f1)
+![2](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/b6316d37-2d9c-4ada-885b-6f4e76bec63b)
+![3](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/0d1502a3-6ad8-4b28-a7b0-a4ba968daa0c)
+![3output](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/7c3e882a-99aa-4df9-a1c2-8c5dda2b5c3d)
+![4](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/1633e903-eaa1-41bc-92c1-e1ca2d19a83c)
+![4output](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/398073f4-5463-49ca-a2e7-89deb69f05be)
+![5](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/07fc72d0-8e3c-40bf-8fdf-a61ae9a2b095)
+![5output](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/2d34750a-585c-4944-84db-f202f426ecde)
+![6](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/8fb37eb9-1c26-4970-919e-a0f640e43475)
+![6output](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/0f9a8ee3-92ff-4622-985a-09bfe2925127)
