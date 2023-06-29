@@ -1,4 +1,4 @@
-##### THYROID CLASSIFICATION USING DATA SCIENCE #####
+# THYROID CLASSIFICATION USING DATA SCIENCE 
 
 # ABOUT THYROID DISEASE:
 
@@ -83,3 +83,8 @@ The result will be one of the following:
 ![5output](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/2d34750a-585c-4944-84db-f202f426ecde)
 ![6](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/8fb37eb9-1c26-4970-919e-a0f640e43475)
 ![6output](https://github.com/JeyasriVarthiniB/Smart-Bridge-Externship-in-Applied-Data-Science/assets/102913053/0f9a8ee3-92ff-4622-985a-09bfe2925127)
+
+# DEMO VIDEO LINK
+
+https://drive.google.com/file/d/1vhDNBqW1u1N1EedYTXHjAUYcn9OWv1lQ/view?usp=sharing
+
